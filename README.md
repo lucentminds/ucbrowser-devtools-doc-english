@@ -256,5 +256,20 @@ Use the developer version Other things to note are:
 * If multiple windows are opened on the developer version, only the current window page is in the "active" state, the other The window page is "inactive".
 
 
-Page 22
-- twenty one - Beijing company Switchboard: 010-59610022 Fax: 010-59610021 Address: 16 / F, Vivia Building, No.29 Suzhou Street, Haidian District, Beijing Zip code: 100080 Guangzhou company Tel: 020-66824888 Fax: 020-66824881 Address: Tianhe District, Guangzhou City, Huangpu Road, West Pingyun Road 163, Guangyun Square B tower Zip code: 510665 Wuhan company Switchboard: 027-59715104 Fax: 027-87804105 Address: 15 / F, Building 1, SBI Venture Street, East Lake Development Zone, Wuhan City Post Code: 430073 Http://www.uc.cn
+Beijing company  
+Switchboard: 010-59610022  
+Fax: 010-59610021  
+Address: 16 / F, Vivia Building, No.29 Suzhou Street, Haidian District, Beijing  
+Zip code: 100080
+
+Guangzhou company  
+Tel: 020-66824888  
+Fax: 020-66824881  
+Address: Tianhe District, Guangzhou City, Huangpu Road, West Pingyun Road 163, Guangyun Square B tower  
+Zip code: 510665
+
+Wuhan company  
+Switchboard: 027-59715104  
+Fax: 027-87804105  
+Address: 15 / F, Building 1, SBI Venture Street, East Lake Development Zone, Wuhan City  
+Post Code: 430073 Http://www.uc.cn
