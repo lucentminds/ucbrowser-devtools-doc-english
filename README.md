@@ -61,13 +61,13 @@ To ensure that Windows computers have Android SDK development environment or ins
 
 With the Windows operating system adb installation reference 
 
- 1. on the PC, through the network to download and install pea pods (or other Android phone assistant);
+ 1. on the PC, through the network to download and install ~~pea pod~~ [wandoujia](#wandoujia) (or other Android phone assistant);
 
  0. Open the USB debug mode on the phone: Settings > Developer Options> USB Debugging
  
- 0. connected to the phone and PC, if the PC without mobile phone, pea pod will automatically download and install; 
+ 0. connected to the phone and PC, if the PC without mobile phone, ~~pea pod~~ [wandoujia](#wandoujia) will automatically download and install; 
  
- 0. the phone and PC connected to the pea pod can be identified as a normal connection 
+ 0. the phone and PC connected to the ~~pea pod~~ [wandoujia](#wandoujia) can be identified as a normal connection 
  
  0. extract the adb_tool.zip to the `C:\WINDOWS\system32` directory 
 
@@ -275,3 +275,8 @@ Address: 15 / F, Building 1, SBI Venture Street, East Lake Development Zone, Wuh
 Post Code: 430073 
 
 http://www.uc.cn
+
+
+## Notes
+<a name="wandoujia"></a>
+### Wandoujia is "pea pods", but this acutally refers to the Wandoujia.com Chinese app store.
